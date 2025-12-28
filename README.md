@@ -1,9 +1,6 @@
 # About Project
 
-<h1>
-  Project name: EcoCoin
-</h1>
-
+# Project name: EcoCoin
 
 # 🌱 EcoCoin MVP
 
@@ -25,3 +22,27 @@ EcoCoin is a blockchain-based loyalty system designed to reward environmentally 
 | | | |
 | :---: | :---: | :---: |
 | ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+
+---
+
+## 🛠️ Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/your-username/ecocoin-mvp.git](https://github.com/your-username/ecocoin-mvp.git)
+   cd ecocoin-mvp
+
+2. **Setup Backend**
+   ```cd backend
+     pip install -r requirements.txt
+    uvicorn main:app --reload
+
+3. **Setup Frontend**
+   ```cd frontend
+    npm install
+    npm start
+
+### Project setup is done! ✅
+
+# About hackathon
+
