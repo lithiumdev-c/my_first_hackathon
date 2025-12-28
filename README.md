@@ -40,7 +40,7 @@ EcoCoin is a blockchain-based loyalty system designed to reward environmentally 
 3. **Setup Frontend**
    ```cd frontend
     npm install
-    npm start
+    npm run dev or npm start
 
 ### Project setup is done! ✅
 
