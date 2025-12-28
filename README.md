@@ -46,3 +46,13 @@ EcoCoin is a blockchain-based loyalty system designed to reward environmentally 
 
 # About hackathon
 
+* **Location:** Atyrau BIL (Atyrau, Kazakhstan)
+* **Organizers:** NIS, BIL, AtyrauHub
+* **Date:** December 20–21, 2025
+* **Result:** Unfortunately, no place, but special prizes and certificate
+
+## 👥 Our Team
+* **[Me]** — FullStack developer & AI engineer
+* **[Bakdaulet]** — Logician, Ideas, Project manager
+* **[Daulet]** — idk
+
