@@ -4,6 +4,6 @@
   Project name: EcoCoin
 </h1>
 
-#MVP
+# MVP
 
 The EcoCoin MVP is a simplified loyalty ecosystem where users earn digital tokens for verified environmental actions (such as recycling or using reusable containers) through a web-based mobile app (built with no-code tools like Glide or FlutterFlow). The core workflow involves a User Interface for uploading photo proof of green deeds, a Manual Admin Dashboard for validating these proofs to prevent fraud, and a Simplified Ledger (using a fast, low-cost blockchain like Polygon or a centralized database for speed) to manage token balances. The loop concludes with a Basic Reward Marketplace featuring 3–5 strategic partners where users can burn their tokens for discount codes, allowing the project to validate user retention and the actual "cost-to-impact" ratio before scaling technical complexity.
