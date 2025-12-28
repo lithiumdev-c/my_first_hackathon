@@ -35,7 +35,16 @@ EcoCoin is a blockchain-based loyalty system designed to reward environmentally 
 2. **Setup Backend**
    ```cd backend
      pip install -r requirements.txt
-    uvicorn main:app --reload
+
+After backend setup create venv by this command
+
+      ```python -m venv .venv
+
+Then install all packages from requirements.txt file by pip
+And start backend
+
+      ```uvicorn main:app --reload
+   
 
 3. **Setup Frontend**
    ```cd frontend
